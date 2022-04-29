@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "projectmechanica:item/refined_stone_pickaxe"
+    }
+}
